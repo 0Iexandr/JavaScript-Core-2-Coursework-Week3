@@ -157,3 +157,15 @@ body {
     max-height: 80px;
   }
 }
+
+#content {
+  width: 40rem;
+}
+
+.color-read {
+  background-color: green;
+}
+
+.color-not-read {
+  background-color: red;
+}

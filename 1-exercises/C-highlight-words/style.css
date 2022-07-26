@@ -157,3 +157,13 @@
         max-height: 80px;
      }
  }
+
+select {
+    font-size: 18px;
+    padding: 0.2rem;
+    border-radius: 5rem;
+}
+
+span {
+    cursor: pointer;
+}
